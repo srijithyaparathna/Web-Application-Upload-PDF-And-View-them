@@ -2,19 +2,12 @@
 
 This project is a full-stack application for PDF file management, featuring user authentication, PDF uploading, and viewing functionalities. The backend is built using Node.js with Express, while the frontend is developed using React.
 
-## Table of Contents
-- [Features](#features)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+![Screenshot 2024-06-13 102732](https://github.com/srijithyaparathna/Web-Application-Upload-PDF-And-View-them/assets/125755221/d233467b-c9cd-454c-90dd-a11a727f58b4)
 
 ## Features
+![Screenshot 2024-06-13 102800](https://github.com/srijithyaparathna/Web-Application-Upload-PDF-And-View-them/assets/125755221/a626ad35-29c1-4353-a86c-c8ffbd4585c6)
+
+![Screenshot 2024-06-13 102745](https://github.com/srijithyaparathna/Web-Application-Upload-PDF-And-View-them/assets/125755221/934d7b52-b098-4a50-956d-ee0c222e4a26)
 
 ### Backend
 - **User Authentication:**
@@ -52,8 +45,5 @@ This project is a full-stack application for PDF file management, featuring user
 - MongoDB setup for storing PDF metadata.
 
 ### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+-frontend npm run dev
+-backend npm start
